@@ -1,12 +1,12 @@
   **[Tutorial]**
   <summary>
-  *1º CTRL + SHIFT + B*
+  1º CTRL + SHIFT + B
   </summary>
   <summary>
-  *2º ARRASTE O CODIGO A BAIXO PARA A BARRA DE TAREFAS*
+  2º ARRASTE O CODIGO A BAIXO PARA A BARRA DE TAREFAS
   </summary>
   <summary>
-  *3º VÁ PARA O KHAN ACADEMY E CLIQUE NO BOOKMARK*
+  3º VÁ PARA O KHAN ACADEMY E CLIQUE NO BOOKMARK
   </summary>
 
   
